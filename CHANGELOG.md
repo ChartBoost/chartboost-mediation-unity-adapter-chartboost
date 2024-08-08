@@ -7,7 +7,7 @@ First version of the Chartboost Mediation Unity SDK - Chartboost Adapter.
 
 #Added
 - Support for the following `Chartboost` dependencies. Notice adapter dependencies are optimistic and any patches and hot-fixes will be automatically picked up.:
-    * Android: `com.chartboost:chartboost-mediation-adapter-chartboost:5.9.6.+`
+    * Android: `com.chartboost:chartboost-mediation-adapter-chartboost:5.9.7.+`
     * iOS: `ChartboostMediationAdapterChartboost ~> 5.9.7.0`
     
 - `ChartboostAdapter.cs` with Configuration Properties for `Chartboost`.
