@@ -2,7 +2,7 @@
 <dependencies>
     <androidPackages>
         <!-- Android Adapter -->
-        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-chartboost:5.9.7.+"/>
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-chartboost:5.9.8.+"/>
         <!-- Chartboost Android Repositories -->
         <repositories>
           <repository>https://cboost.jfrog.io/artifactory/chartboost-ads/</repository>
