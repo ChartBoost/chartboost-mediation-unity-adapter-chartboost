@@ -13,6 +13,6 @@
         <iosPod name="ChartboostMediationAdapterChartboost" version="~> 5.9.9.0"/>
 
         <!-- Partner iOS SDK-->
-        <iosPod name="ChartboostSDK" version="~> 9.9.0" addToAllTargets="false"/>
+        <iosPod name="ChartboostSDK" version="~> 9.9.0" addToAllTargets="true"/>
     </iosPods>
 </dependencies>

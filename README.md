@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - Chartboost Adapter to your 
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.chartboost": "5.0.3",
+    "com.chartboost.mediation.unity.adapter.chartboost": "5.0.4",
     ...
 },
 "scopedRegistries": [
