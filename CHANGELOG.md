@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.5 *(2025-06-03)*
+This version of the Chartboost Adapter supports the following native SDK dependencies:
+* Android: `com.chartboost:chartboost-mediation-adapter-chartboost:5.9.9.+`
+* iOS: `ChartboostMediationAdapterChartboost: ~> 5.9.9.0`
+
 ### Version 5.0.4 *(2025-05-28)*
 Bug Fixes:
 * Made `ChartboostSDK: ~> 5.9.9.0` be added to all targets for proper resource bundling.
