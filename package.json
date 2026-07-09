@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.chartboost",
-    "version": "5.1.2",
+    "version": "5.2.0",
     "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - Chartboost",
     "description": "The Chartboost Mediation Unity SDK Adapter for Chartboost.",
